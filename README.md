@@ -28,7 +28,7 @@
 | Juno	Claudia | WT1 | 
 | Lang	Priska | USH1C | 
 | Lehrach	Michael | SMPD1 | 
-| Majewski	Anna | B3GNT1 | 
+| Majewski	Anna | B3GNT3 | 
 | Moser	Josef | ATM | 
 | Ruge	Frank | INS | 
 | Spielvogel	Clemens | DHCR7 | 
